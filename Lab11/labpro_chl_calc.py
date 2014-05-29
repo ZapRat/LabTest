@@ -1,17 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Apr 20 16:05:53 2014
-
-@author: Charles
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Script to run spectometry-based pigment concentrations.
-Created on Tue Feb 11 21:43:25 2014
 
 @author: Charles
 """
+
 import pdb
 import json
 import numpy as np
